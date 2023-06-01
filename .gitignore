@@ -15,3 +15,9 @@ xanmanning.k3s*
 .terraform
 .terraform.tfstate*
 terraform.tfstate*
+ansible/inventory/group_vars/kubernetes/kube-vip.yml
+.sops.yaml
+ansible/inventory/hosts.yml
+ansible/inventory/host_vars/k8s-0.sops.yml
+kubernetes/flux/config/cluster.yaml
+kubernetes/flux/vars/cluster-settings.yaml
